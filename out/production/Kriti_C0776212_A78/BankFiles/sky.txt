@@ -1,0 +1,5 @@
+Your balance is: $801.45
+Credited: $120.00
+Your balance is: $921.45
+Debited: $100.00
+Your balance is: $821.45
